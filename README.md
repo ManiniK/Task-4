@@ -1,4 +1,4 @@
-# Task-4 - Logistic Regression – Breast Cancer Detection
+# Task-4 - Logistic Regression 
 
 ## Overview
 Logistic Regression model to classify tumors as Malignant (1) or Benign (0) using the Breast Cancer Wisconsin dataset.  
